@@ -24,5 +24,5 @@
 1. Clone the repository:
 
 bash
-git clone https://github.com/kullaniciadi/LibraryAPI.git
+git clone https://github.com/SEYMAKOTIL/LibraryAPI.git
 cd LibraryAPI
